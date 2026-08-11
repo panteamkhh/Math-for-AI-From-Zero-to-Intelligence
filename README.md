@@ -26,13 +26,13 @@ Build the mathematical intuition behind AI, Machine Learning, and Data Science t
 | 🧩 | **[Layer 1 — Mathematical Thinking Foundations](layer-1/)** | Days 1–5 | Sets, distance, scale, patterns — the mental habits underneath every model |
 | 📈 | **[Layer 2 — Algebra & Functions](layer-2/)** | Days 6–20 | Functions as machines, activations, losses — the vocabulary every later layer speaks |
 | 📐 | **[Layer 3 — Geometry & Analytic Geometry](layer-3/)** | Days 21–25 | Coordinates, distance, vectors — the geometry hiding inside embedding space |
-| 🌊 | **Layer 4 — Calculus & Change** | Days 26–32 | Derivatives, gradients, integrals — how a model learns to get better |
-| 🔢 | **Layer 5 — Discrete Mathematics** | Days 33–39 | Logic, sets, graphs, recursion — the structure behind trees and data |
-| 🎲 | **Layer 6 — Probability & Statistics** | Days 40–46 | Uncertainty, Bayes, variance — how to reason about a model's confidence |
-| 🧮 | **Layer 7 — Linear Algebra** | Days 47–55 | Vectors, matrices, eigenvectors — the native language of deep learning |
-| 🚀 | **Layer 8 — Mathematics of Modern AI** | Days 56–80 | Backprop, attention, embeddings — where everything converges into transformers |
+| 🌊 | **[Layer 4 — Calculus & Change](layer-4/)** | Days 26–32 | Derivatives, gradients, integrals — how a model learns to get better |
+| 🔢 | **[Layer 5 — Discrete Mathematics](layer-5/)** | Days 33–39 | Logic, sets, graphs, recursion — the structure behind trees and data |
+| 🎲 | **[Layer 6 — Probability & Statistics](layer-6/)** | Days 40–46 | Uncertainty, Bayes, variance — how to reason about a model's confidence |
+| 🧮 | **[Layer 7 — Linear Algebra](layer-7/)** | Days 47–55 | Vectors, matrices, eigenvectors — the native language of deep learning |
+| 🚀 | **[Layer 8 — Mathematics of Modern AI](layer-8/)** | Days 56–80 | Backprop, attention, embeddings, RLHF — where everything converges into transformers and aligned assistants |
 
-
+> 🎉 **All 8 layers, all 80 days, are complete and live.**
 
 ---
 
@@ -66,4 +66,4 @@ Each layer folder contains one file per day, plus a `*-summary-review.md` for a 
 
 ## 🤝 Follow Along
 
-This course is being built and published day by day. Follow the repo (⭐ star it) to track progress.
+This course is being built and published day by day. Follow the repo (⭐ star it) to track progress, and connect on LinkedIn for the build-in-public journey.
