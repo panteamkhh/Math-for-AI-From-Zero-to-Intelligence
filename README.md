@@ -23,14 +23,14 @@ Build the mathematical intuition behind AI, Machine Learning, and Data Science t
 
 | # | Layer | Days | What you'll build |
 |---|---|---|---|
-| 🧩 | **[Layer 1 — Mathematical Thinking Foundations](layer-1/)** | Days 1–5 | Sets, distance, scale, patterns — the mental habits underneath every model |
-| 📈 | **[Layer 2 — Algebra & Functions](layer-2/)** | Days 6–20 | Functions as machines, activations, losses — the vocabulary every later layer speaks |
-| 📐 | **[Layer 3 — Geometry & Analytic Geometry](layer-3/)** | Days 21–25 | Coordinates, distance, vectors — the geometry hiding inside embedding space |
-| 🌊 | **[Layer 4 — Calculus & Change](layer-4/)** | Days 26–32 | Derivatives, gradients, integrals — how a model learns to get better |
-| 🔢 | **[Layer 5 — Discrete Mathematics](layer-5/)** | Days 33–39 | Logic, sets, graphs, recursion — the structure behind trees and data |
-| 🎲 | **[Layer 6 — Probability & Statistics](layer-6/)** | Days 40–46 | Uncertainty, Bayes, variance — how to reason about a model's confidence |
-| 🧮 | **[Layer 7 — Linear Algebra](layer-7/)** | Days 47–55 | Vectors, matrices, eigenvectors — the native language of deep learning |
-| 🚀 | **[Layer 8 — Mathematics of Modern AI](layer-8/)** | Days 56–80 | Backprop, attention, embeddings, RLHF — where everything converges into transformers and aligned assistants |
+| 🧩 | **[Layer 1 — Mathematical Thinking Foundations](layer-1-mathematical-thinking-foundations/)** | Days 1–5 | Sets, distance, scale, patterns — the mental habits underneath every model |
+| 📈 | **[Layer 2 — Algebra & Functions](layer-2-Algebra%20&%20Functions/)** | Days 6–20 | Functions as machines, activations, losses — the vocabulary every later layer speaks |
+| 📐 | **[Layer 3 — Geometry & Analytic Geometry](layer-3-Geometry%20&%20Analytic%20Geometry/)** | Days 21–25 | Coordinates, distance, vectors — the geometry hiding inside embedding space |
+| 🌊 | **[Layer 4 — Calculus & Change](layer-4-Calculus%20&%20Change/)** | Days 26–32 | Derivatives, gradients, integrals — how a model learns to get better |
+| 🔢 | **[Layer 5 — Discrete Mathematics](layer-5-Discrete%20Mathematics/)** | Days 33–39 | Logic, sets, graphs, recursion — the structure behind trees and data |
+| 🎲 | **[Layer 6 — Probability & Statistics](layer-6-Probability%20&%20Statistics/)** | Days 40–46 | Uncertainty, Bayes, variance — how to reason about a model's confidence |
+| 🧮 | **[Layer 7 — Linear Algebra](layer-7-Linear%20Algebra/)** | Days 47–55 | Vectors, matrices, eigenvectors — the native language of deep learning |
+| 🚀 | **[Layer 8 — Mathematics of Modern AI](layer-8-Mathematics%20of%20Modern%20AI/)** | Days 56–80 | Backprop, attention, embeddings, RLHF — where everything converges into transformers and aligned assistants |
 
 > 🎉 **All 8 layers, all 80 days, are complete and live.**
 
@@ -51,13 +51,13 @@ Each lesson is intentionally short (~10 minutes) and follows the same four-part 
 
 ```
 math-for-ai/
-├── layer-1/
+├── layer-1-mathematical-thinking-foundations/
 │   ├── layer-1-summary-review.md
 │   ├── day-01-....md
 │   └── ...
-├── layer-2/
+├── layer-2-Algebra & Functions/
 │   └── ...
-├── layer-3/
+├── layer-3-Geometry & Analytic Geometry/
 │   └── ...
 └── ...
 ```
